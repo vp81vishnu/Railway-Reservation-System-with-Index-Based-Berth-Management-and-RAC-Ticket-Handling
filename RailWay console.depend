@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1721409319 source:c:\users\vp81v\documents\railway console\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"User.h"
+	"Book.h"
+
+1721409013 source:c:\users\vp81v\documents\railway console\user.cpp
+	<bits/stdc++.h>
+	"User.h"
+
+1721409068 c:\users\vp81v\documents\railway console\user.h
+	<bits/stdc++.h>
+
+1721409531 c:\users\vp81v\documents\railway console\book.h
+	<bits/stdc++.h>
+	"Berth.h"
+
+1721409201 c:\users\vp81v\documents\railway console\berth.h
+	<bits/stdc++.h>
+
